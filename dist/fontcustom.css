@@ -13,51 +13,94 @@
   font-style: normal;
 }
 
-.icon-android_lockup:before,
-.icon-android_symbol:before,
-.icon-android_type:before,
-.icon-angular_js_lockup:before,
-.icon-angular_js_symbol:before,
-.icon-backbone_js_symbol:before,
-.icon-css3_lockup:before,
-.icon-css3_symbol:before,
-.icon-django_type:before,
-.icon-ember_js_small:before,
-.icon-ember_js_type:before,
-.icon-hadoop_lockup:before,
-.icon-hadoop_symbol:before,
-.icon-hadoop_type_3d:before,
-.icon-hadoop_type_flat:before,
-.icon-html5_lockup:before,
-.icon-html5_symbol:before,
-.icon-html5_type:before,
-.icon-ios_knockout:before,
-.icon-ios_type:before,
-.icon-javascript_knockout:before,
-.icon-javascript_type:before,
-.icon-jquery_lockup:before,
-.icon-jquery_symbol:before,
-.icon-jquery_type:before,
-.icon-knockout_js_symbol:before,
-.icon-knockout_js_type:before,
-.icon-mongodb_lockup:before,
-.icon-mongodb_symbol:before,
-.icon-mongodb_type:before,
-.icon-mysql_lockup:before,
-.icon-mysql_symbol:before,
-.icon-mysql_type:before,
-.icon-node_js_lockup:before,
-.icon-node_js_type:before,
-.icon-php_reverse:before,
-.icon-php_type:before,
-.icon-postgresql_lockup:before,
-.icon-postgresql_symbol:before,
-.icon-postgresql_type:before,
-.icon-python_lockup:before,
-.icon-python_symbol:before,
-.icon-python_type:before,
-.icon-rails_lockup:before,
-.icon-rails_type:before {
+.icon-ajax-symbol:before,
+.icon-ajax-type:before,
+.icon-android-lockup:before,
+.icon-android-symbol:before,
+.icon-android-type:before,
+.icon-angular-js-lockup:before,
+.icon-angular-js-symbol:before,
+.icon-backbone-js-symbol:before,
+.icon-coffeescript-lockup:before,
+.icon-coffeescript-symbol:before,
+.icon-coffeescript-type:before,
+.icon-css3-lockup:before,
+.icon-css3-symbol:before,
+.icon-django-symbol:before,
+.icon-django-type:before,
+.icon-dotnet-type:before,
+.icon-drupal-lockup:before,
+.icon-drupal-symbol:before,
+.icon-drupal-type:before,
+.icon-ember-js-small:before,
+.icon-ember-js-type:before,
+.icon-git-lockup:before,
+.icon-git-symbol:before,
+.icon-git-type:before,
+.icon-hadoop-lockup:before,
+.icon-hadoop-symbol:before,
+.icon-hadoop-type-3d:before,
+.icon-hadoop-type-flat:before,
+.icon-html5-lockup:before,
+.icon-html5-symbol:before,
+.icon-html5-type:before,
+.icon-ios-reverse:before,
+.icon-ios-type:before,
+.icon-java-lockup:before,
+.icon-java-symbol:before,
+.icon-java-type:before,
+.icon-javascript-reverse:before,
+.icon-javascript-type:before,
+.icon-joomla-lockup:before,
+.icon-joomla-symbol:before,
+.icon-joomla-type:before,
+.icon-jquery-lockup:before,
+.icon-jquery-symbol:before,
+.icon-jquery-type:before,
+.icon-json-type:before,
+.icon-knockout-js-symbol:before,
+.icon-knockout-js-type:before,
+.icon-meteor-js-type:before,
+.icon-mongodb-lockup:before,
+.icon-mongodb-symbol:before,
+.icon-mongodb-type:before,
+.icon-mysql-lockup:before,
+.icon-mysql-symbol:before,
+.icon-mysql-type:before,
+.icon-node-js-lockup:before,
+.icon-node-js-type:before,
+.icon-php-reverse:before,
+.icon-php-type:before,
+.icon-postgresql-lockup:before,
+.icon-postgresql-symbol:before,
+.icon-postgresql-type:before,
+.icon-python-lockup:before,
+.icon-python-symbol:before,
+.icon-python-type:before,
+.icon-rails-lockup:before,
+.icon-rails-type:before,
+.icon-redis-lockup:before,
+.icon-redis-symbol:before,
+.icon-redis-type:before,
+.icon-scala-lockup:before,
+.icon-scala-symbol:before,
+.icon-scala-type:before,
+.icon-ui-type:before,
+.icon-ux-type:before,
+.icon-vignette-lockup:before,
+.icon-vignette-symbol:before,
+.icon-vignette-type:before,
+.icon-winphone-lockup:before,
+.icon-winphone-symbol:before,
+.icon-winphone-type:before,
+.icon-wordpress-lockup:before,
+.icon-wordpress-symbol:before,
+.icon-wordpress-type:before,
+.icon-xml-reverse:before,
+.icon-xml-type:before,
+.icon-zepto-js-lockup:before,
+.icon-zepto-js-symbol:before,
+.icon-zepto-js-type:before {
   font-family: "stacked";
   font-style: normal;
   font-weight: normal;
@@ -69,48 +112,91 @@
   text-decoration: inherit;
 }
 
-.icon-android_lockup:before { content: "\f100"; }
-.icon-android_symbol:before { content: "\f101"; }
-.icon-android_type:before { content: "\f102"; }
-.icon-angular_js_lockup:before { content: "\f103"; }
-.icon-angular_js_symbol:before { content: "\f104"; }
-.icon-backbone_js_symbol:before { content: "\f105"; }
-.icon-css3_lockup:before { content: "\f106"; }
-.icon-css3_symbol:before { content: "\f107"; }
-.icon-django_type:before { content: "\f108"; }
-.icon-ember_js_small:before { content: "\f109"; }
-.icon-ember_js_type:before { content: "\f10a"; }
-.icon-hadoop_lockup:before { content: "\f10b"; }
-.icon-hadoop_symbol:before { content: "\f10c"; }
-.icon-hadoop_type_3d:before { content: "\f10d"; }
-.icon-hadoop_type_flat:before { content: "\f10e"; }
-.icon-html5_lockup:before { content: "\f10f"; }
-.icon-html5_symbol:before { content: "\f110"; }
-.icon-html5_type:before { content: "\f111"; }
-.icon-ios_knockout:before { content: "\f112"; }
-.icon-ios_type:before { content: "\f113"; }
-.icon-javascript_knockout:before { content: "\f114"; }
-.icon-javascript_type:before { content: "\f115"; }
-.icon-jquery_lockup:before { content: "\f116"; }
-.icon-jquery_symbol:before { content: "\f117"; }
-.icon-jquery_type:before { content: "\f118"; }
-.icon-knockout_js_symbol:before { content: "\f119"; }
-.icon-knockout_js_type:before { content: "\f11a"; }
-.icon-mongodb_lockup:before { content: "\f11b"; }
-.icon-mongodb_symbol:before { content: "\f11c"; }
-.icon-mongodb_type:before { content: "\f11d"; }
-.icon-mysql_lockup:before { content: "\f11e"; }
-.icon-mysql_symbol:before { content: "\f11f"; }
-.icon-mysql_type:before { content: "\f120"; }
-.icon-node_js_lockup:before { content: "\f121"; }
-.icon-node_js_type:before { content: "\f122"; }
-.icon-php_reverse:before { content: "\f123"; }
-.icon-php_type:before { content: "\f124"; }
-.icon-postgresql_lockup:before { content: "\f125"; }
-.icon-postgresql_symbol:before { content: "\f126"; }
-.icon-postgresql_type:before { content: "\f127"; }
-.icon-python_lockup:before { content: "\f128"; }
-.icon-python_symbol:before { content: "\f129"; }
-.icon-python_type:before { content: "\f12a"; }
-.icon-rails_lockup:before { content: "\f12b"; }
-.icon-rails_type:before { content: "\f12c"; }
+.icon-ajax-symbol:before { content: "\f100"; }
+.icon-ajax-type:before { content: "\f101"; }
+.icon-android-lockup:before { content: "\f102"; }
+.icon-android-symbol:before { content: "\f103"; }
+.icon-android-type:before { content: "\f104"; }
+.icon-angular-js-lockup:before { content: "\f105"; }
+.icon-angular-js-symbol:before { content: "\f106"; }
+.icon-backbone-js-symbol:before { content: "\f107"; }
+.icon-coffeescript-lockup:before { content: "\f108"; }
+.icon-coffeescript-symbol:before { content: "\f109"; }
+.icon-coffeescript-type:before { content: "\f10a"; }
+.icon-css3-lockup:before { content: "\f10b"; }
+.icon-css3-symbol:before { content: "\f10c"; }
+.icon-django-symbol:before { content: "\f10d"; }
+.icon-django-type:before { content: "\f10e"; }
+.icon-dotnet-type:before { content: "\f10f"; }
+.icon-drupal-lockup:before { content: "\f110"; }
+.icon-drupal-symbol:before { content: "\f111"; }
+.icon-drupal-type:before { content: "\f112"; }
+.icon-ember-js-small:before { content: "\f113"; }
+.icon-ember-js-type:before { content: "\f114"; }
+.icon-git-lockup:before { content: "\f115"; }
+.icon-git-symbol:before { content: "\f116"; }
+.icon-git-type:before { content: "\f117"; }
+.icon-hadoop-lockup:before { content: "\f118"; }
+.icon-hadoop-symbol:before { content: "\f119"; }
+.icon-hadoop-type-3d:before { content: "\f11a"; }
+.icon-hadoop-type-flat:before { content: "\f11b"; }
+.icon-html5-lockup:before { content: "\f11c"; }
+.icon-html5-symbol:before { content: "\f11d"; }
+.icon-html5-type:before { content: "\f11e"; }
+.icon-ios-reverse:before { content: "\f11f"; }
+.icon-ios-type:before { content: "\f120"; }
+.icon-java-lockup:before { content: "\f121"; }
+.icon-java-symbol:before { content: "\f122"; }
+.icon-java-type:before { content: "\f123"; }
+.icon-javascript-reverse:before { content: "\f124"; }
+.icon-javascript-type:before { content: "\f125"; }
+.icon-joomla-lockup:before { content: "\f126"; }
+.icon-joomla-symbol:before { content: "\f127"; }
+.icon-joomla-type:before { content: "\f128"; }
+.icon-jquery-lockup:before { content: "\f129"; }
+.icon-jquery-symbol:before { content: "\f12a"; }
+.icon-jquery-type:before { content: "\f12b"; }
+.icon-json-type:before { content: "\f12c"; }
+.icon-knockout-js-symbol:before { content: "\f12d"; }
+.icon-knockout-js-type:before { content: "\f12e"; }
+.icon-meteor-js-type:before { content: "\f12f"; }
+.icon-mongodb-lockup:before { content: "\f130"; }
+.icon-mongodb-symbol:before { content: "\f131"; }
+.icon-mongodb-type:before { content: "\f132"; }
+.icon-mysql-lockup:before { content: "\f133"; }
+.icon-mysql-symbol:before { content: "\f134"; }
+.icon-mysql-type:before { content: "\f135"; }
+.icon-node-js-lockup:before { content: "\f136"; }
+.icon-node-js-type:before { content: "\f137"; }
+.icon-php-reverse:before { content: "\f138"; }
+.icon-php-type:before { content: "\f139"; }
+.icon-postgresql-lockup:before { content: "\f13a"; }
+.icon-postgresql-symbol:before { content: "\f13b"; }
+.icon-postgresql-type:before { content: "\f13c"; }
+.icon-python-lockup:before { content: "\f13d"; }
+.icon-python-symbol:before { content: "\f13e"; }
+.icon-python-type:before { content: "\f13f"; }
+.icon-rails-lockup:before { content: "\f140"; }
+.icon-rails-type:before { content: "\f141"; }
+.icon-redis-lockup:before { content: "\f142"; }
+.icon-redis-symbol:before { content: "\f143"; }
+.icon-redis-type:before { content: "\f144"; }
+.icon-scala-lockup:before { content: "\f145"; }
+.icon-scala-symbol:before { content: "\f146"; }
+.icon-scala-type:before { content: "\f147"; }
+.icon-ui-type:before { content: "\f148"; }
+.icon-ux-type:before { content: "\f149"; }
+.icon-vignette-lockup:before { content: "\f14a"; }
+.icon-vignette-symbol:before { content: "\f14b"; }
+.icon-vignette-type:before { content: "\f14c"; }
+.icon-winphone-lockup:before { content: "\f14d"; }
+.icon-winphone-symbol:before { content: "\f14e"; }
+.icon-winphone-type:before { content: "\f14f"; }
+.icon-wordpress-lockup:before { content: "\f150"; }
+.icon-wordpress-symbol:before { content: "\f151"; }
+.icon-wordpress-type:before { content: "\f152"; }
+.icon-xml-reverse:before { content: "\f153"; }
+.icon-xml-type:before { content: "\f154"; }
+.icon-zepto-js-lockup:before { content: "\f155"; }
+.icon-zepto-js-symbol:before { content: "\f156"; }
+.icon-zepto-js-type:before { content: "\f157"; }
